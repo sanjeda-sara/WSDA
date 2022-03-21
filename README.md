@@ -1,2 +1,2 @@
 # WSDA
-class 33-37 (6th March to 10th March)
+class 34-38 (6th March to 10th March)
